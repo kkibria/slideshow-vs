@@ -17,6 +17,7 @@
 		"commands": [
 			{
 				"command": "slideshow-vs.helloWorld",
+				"category": "slideshow",
 				"title": "Hello World"
 			}
 		]
