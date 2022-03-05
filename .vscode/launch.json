@@ -29,6 +29,8 @@
 				"${workspaceFolder}/out/test/**/*.js"
 			],
 			"preLaunchTask": "${defaultBuildTask}"
+			// "runtimeExecutable": "${execPath}",
+			// "preLaunchTask": "npm: compile"
 		}
 	]
 }
